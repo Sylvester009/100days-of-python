@@ -1,5 +1,5 @@
-# Description of Hand Game(Rock, Paper, Scissors)
-## This is a rundown of what was learnt durong my day one of python marathon(as I like to call it) using a hand game that was built.
+# Day One Readme
+## This is a rundown of what was learnt during my day one of python marathon(as I like to call it) using a hand game that was built.
 
 ### Variables
 Variables are used to store data and it does not have any semi-colon at its end unlike other programming languages
