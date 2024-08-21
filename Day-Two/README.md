@@ -1,7 +1,7 @@
 # 100 Days Of Python
 ## A quick rundown of the knowledge gained on day two of my python marathon.
 
-No project was done today but there was an in-depth explanation of the concepts and terms used during day one. Fwe things touched upon are:
+No project was done today but there was an in-depth explanation of the concepts and terms used during day one. Few things touched upon are:
 
 ### String Method
 ### abs(absolute)
